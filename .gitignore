@@ -1,3 +1,5 @@
 df.pkl
 similarity.pkl
 spotify_millsongdata.csv
+.gitignore
+.DS_Store
